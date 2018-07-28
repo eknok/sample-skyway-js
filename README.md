@@ -1,5 +1,10 @@
 # SkyWay Get Started
 
+IDを入力して相手と簡単にビデオ通話できるapp  
+
+## API
+SkyWay - [JavaScript SDK チュートリアル](https://webrtc.ecl.ntt.com/js-tutorial.html)  s
+
 ## Setting up
 
 Use npm install to set up dependencies.
